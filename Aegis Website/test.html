@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Course Types</title>
+  <link rel="stylesheet" href="search.css">
+</head>
+<body>
+  <h1>Testing (Search)</h1>
+
+  <!-- Search Icon + Panel -->
+  <button class="icon-btn" id="searchToggle">
+    <img src="./images/search.png" alt="Search" />
+  </button>
+
+  <div id="searchPanel" class="search-panel hidden">
+    <form action="search-results.html" method="get" class="search-container">
+      <input type="search" id="site-search" name="q" placeholder="Enter your search term..." autocomplete="off" />
+      <button type="submit">Search</button>
+    </form>
+    <div id="searchPreview" class="search-preview"></div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="search.js"></script>
+</body>
+</html>

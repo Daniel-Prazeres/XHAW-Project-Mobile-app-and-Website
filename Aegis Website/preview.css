@@ -1,0 +1,24 @@
+
+.search-preview {
+  margin-top: 10px;
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+#searchPreview a {
+  display: block;
+  padding: 8px 10px;
+  border-bottom: 1px solid #eee;
+  text-decoration: none;
+  color: #007BFF;
+}
+
+#searchPreview a:hover {
+  text-decoration: underline;
+}
+
+#searchPreview p {
+  margin: 0;
+  padding: 8px 10px;
+  color: #666;
+}

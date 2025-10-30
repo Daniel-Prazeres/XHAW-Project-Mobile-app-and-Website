@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Empowering the Nation</title>
+ <link rel="stylesheet" href="search.css">
+ <link rel="stylesheet" href="preview.css">
+<style>
+  body {
+      font-family: Arial, sans-serif;
+      padding: 40px;
+      background-color: white;
+    }
+
+    .about-container {
+      display: flex;
+      gap: 30px;
+      align-items: flex-start;
+    }
+
+    .about-text {
+      flex: 1;
+      padding: 20px;
+      font-size: 20px;
+      border-left: 2px solid black;
+      border-right: 2px solid black;
+      box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+    .about-image img {
+      max-width: 400px;
+      height: auto;
+      box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+    }
+
+
+  .icon-bar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+}
+
+
+.icon-btn {
+  background-color: #c9c9c9;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.icon-btn img {
+  width: 75%;
+  height: 75px;
+}
+
+.icon-btn:hover {
+  background-color: #e0e0e0;
+}
+
+.hidden {
+  display: none;
+}
+
+  </style>
+
+</head>
+<body>
+  <a name="top"></a>
+  <table bgcolor="#c9c9c9" width="100%">
+    <tr>
+  <td><img src="./images/Logo.png" width = "100%" height = "200px" align = "center" alt="Logo"><br></td>
+  <td><h1 align="left">Empowering The Nation</h1> <p style="font-size: 20px">Stronger Together, We Can Rise</p></td>
+
+  <td><div class="icon-bar">
+  <button class="icon-btn">
+    <a href="Bookings.html" target="_blank">
+    <img src="./images/calendar.png" alt="Calendar" />
+    </a>
+  </button>
+  <button class="icon-btn">
+    <a href="Cart.html" target="_blank">
+    <img src="./images/Black cart.png" alt="Cart" />
+    </a>
+  </button>
+  <button class="icon-btn" id="searchToggle">
+    <img src="./images/search.png" alt="Search" />
+  </button>
+ 
+ 
+<div id="searchPanel" class="search-panel hidden">
+  <form action="search-results.html" method="get" class="search-container" onsubmit="">
+    <label for="site-search" style="display:none;">Search the site:</label>
+    <input type="search" id="site-search" name="q" placeholder="Enter your search term..." autocomplete="off" />
+    <button type="submit">Search</button>
+  </form>
+
+  
+  <div id="searchPreview" class="search-preview"></div>
+</div>
+
+</div></td></tr>
+  </table>
+</br>
+<nav>
+<table border="2" width="100%">
+<tr align="center">
+<td bgcolor="#000">
+<a href="Home.html" target="_blank" style="font-size: 25px;"><Font color="#ffffff"> Home </font></a>
+</td>
+<td bgcolor="#c9c9c9">
+&nbsp;
+	<a href="Course Types.html" target="_blank" style="font-size: 25px;"><Font color="#000">Course Types </font></a>
+</td>
+<td bgcolor="#c9c9c9">
+&nbsp;
+	<a href="6 Month Course.html" target="_blank" style="font-size: 25px;"><Font color="#000"> 6 Month Courses </font></a>
+</td>
+<td bgcolor="#c9c9c9">
+&nbsp;
+	<a href="6 Week Courses.html" target="_blank" style="font-size: 25px;"><Font color="#000">6 Week Courses </font></a>
+</td>
+<td bgcolor="#c9c9c9">
+&nbsp;
+	<a href="Contact Us.html" target="_blank" style="font-size: 25px;"><Font color="#000">Contact Us </font></a>
+</td>
+</tr>
+</table>
+</nav>
+<br>
+
+
+
+ <div class="about-container">
+    <div class="about-text">
+      <p>
+        Empowering the nation has been providing learning opportunities since 2022 and remains dedicated in the teaching and empowerment of our nation.
+        We offer a variety of courses to suit the needs of each prospective student, whether learning how to sew or basic medical training, we are certain there is a course for you.
+      </p>
+    </div>
+
+    <div class="about-image">
+      <img src="/courseImages/Home image.png" alt="Student browsing books">
+    </div>
+  </div>
+
+<br><br>
+<footer style="background-color: #c9c9c9; padding-left: 60px; text-align: center;">
+
+   <a href="https://www.instagram.com/emp_oweringthenation/" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios/50/instagram-new.png" alt="Instagram" />
+  </a>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=empoweringthenation085@gmail.com" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios/50/gmail.png" alt="Gmail" />
+  </a>
+
+  <a href="https://x.com/EThenation" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios/50/twitterx.png" alt="X" />
+  </a>
+
+  <a href="https://mtouch.facebook.com/empowering.the.nation.2025/" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios/50/facebook-new.png" alt="Facebook" />
+  </a>
+
+  <a href="tel:+27677736119" target="_blank" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/ios/50/phone.png" alt="Telephone" />
+  </a>
+</footer>
+
+<script src="data.js"></script>
+
+<script>
+  
+  const searchToggle = document.getElementById('searchToggle');
+  const searchPanel = document.getElementById('searchPanel');
+  const searchInput = document.getElementById('site-search');
+  const previewContainer = document.getElementById('searchPreview');
+
+  
+  searchToggle.addEventListener('click', (e) => {
+    e.stopPropagation();
+    searchPanel.classList.toggle('hidden');
+    if (!searchPanel.classList.contains('hidden')) {
+      searchInput.focus();
+    }
+  });
+
+  
+  document.addEventListener('click', (e) => {
+    if (!searchPanel.contains(e.target) && !searchToggle.contains(e.target)) {
+      searchPanel.classList.add('hidden');
+    }
+  });
+
+  
+  searchInput.addEventListener('input', (e) => {
+    const q = e.target.value.trim().toLowerCase();
+    previewContainer.innerHTML = '';
+    if (!q) return;
+
+    const filtered = siteData.filter(item =>
+      item.title.toLowerCase().includes(q) ||
+      (item.keywords && item.keywords.some(k => k.includes(q)))
+    );
+
+    if (filtered.length) {
+      filtered.slice(0, 12).forEach(item => {
+        const a = document.createElement('a');
+        a.href = item.url;
+        a.textContent = item.title;
+        previewContainer.appendChild(a);
+      });
+    } else {
+      const p = document.createElement('p');
+      p.textContent = 'No results found';
+      previewContainer.appendChild(p);
+    }
+  });
+</script>
+
+</body>
+<a href='#top' style="font-size: 25px;" style ="color:#000">Back to top</a>
+  
+
+
+
+</html>
