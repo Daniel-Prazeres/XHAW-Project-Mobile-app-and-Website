@@ -24,6 +24,8 @@ This is the logo we designed for Empowering the Nation
 
 ![Logo img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/Logo.png)
 
+The logo represents achivement through hard work, where scaling the mountain is the hard work and the sun is the goal you want to reach. 
+
 #### Key website & mobile app functions:
 
 1: Give the user the ability to browse through the courses empowering the nation is offering
@@ -43,54 +45,59 @@ This is the logo we designed for Empowering the Nation
 ## Images - Website
 
 #### Home page
-![Website home page img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Website home page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteHomescreen.png)
 
 #### Course types page
-![Website course types page img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Website course types page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteCourseTypes.png)
 
 #### Six month courses page
-![Website six month courses page img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Website six month courses page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteSixMonth.png)
 
 #### Six week courses page
-![Website six week courses page img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Website six week courses page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteSixWeek.png)
 
 #### Contact us page
-![Website contact us page img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Website contact us page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteContactUs.png)
 
 #### Bookings page
-![Website bookings page img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Website bookings page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteBookings.png)
 
 #### Cart page
-![Website cart page img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Website cart page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteCart.png)
 
 #### Search function
-![Website search function img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Website search function img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteSearch.png)
 
 ## Images - Mobile App
 
 #### Home screen
-![Mobiles app home screen img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Mobiles app home screen img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileHomeScreen.jpg)
 
 #### Dropdown menu function
-![Mobile app dropdown menu img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Mobile app dropdown menu img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileDropdownMenu.jpg)
 
 #### Course types screen
-![Mobile app course types screen img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Mobile app course types screen img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileCourseTypes1.jpg)
 
 #### Six month courses screen
-![Mobile app six month courses screen img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Mobile app six month courses screen img1](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileSixMonth1.jpg)
+![Mobile app six month courses screen img2](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileSixMonth2.jpg)
 
 #### Six week courses screen
-![Mobile app six week courses screen img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Mobile app six week courses screen img1](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileSixWeek1.jpg)
+![Mobile app six week courses screen img2](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileSixWeek2.jpg)
 
 ### Contact us screen
-![Mobile app contact us screen img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Mobile app contact us screen img1](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileContactUs1.jpg)
+![Mobile app contact us screen img2](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileContactUs2.jpg)
 
 ### Bookings screen
-![Mobile app bookings screen img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Mobile app bookings screen img1](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileBookings1.jpg)
+![Mobile app bookings screen img2](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileBookings2.jpg)
 
 ### Cart screen
-![Mobile app cart screen img](https://github.com/user-attachments/assets/81e5cd15-6888-41d4-803c-40cf03342ecb)
+![Mobile app cart screen img1](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileCart1.jpg)
+![Mobile app cart screen img2](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileCart2.jpg)
 
 # References 
 
