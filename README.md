@@ -22,7 +22,7 @@ We at Aegis were tasked with creating a mobile app, website and logo for the com
 
 This is the logo we designed for Empowering the Nation
 
-![Logo img](https://github.com/user-attachments/Resources/Logo.png)
+![Logo img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/Logo.png)
 
 #### Key website & mobile app functions:
 
