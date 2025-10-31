@@ -30,6 +30,8 @@ We at Aegis were tasked with creating a mobile app, website and logo for the com
 
 VAT: 15%
 
+#### UI, UX & Logo design:
+
 Moreover we were tasked with creating an appealing logo and UI for both the website and mobile app that would give off an air of professionality and friendliness. We decided on a somewhat spartan clean look for both the website and mobile app so as to reduce visual clutter caused by complex visual elements and increase readablility. Below you can see the pallet we chose as a guidline to design the UI of both the website and mobile app. Of note is its liberal use of white, black, gray and high saturation orange & blue which was chosen so as to make certain elements stand out to the user and draw their attention to them.
 
 ![Pallet img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/pallet.png)
