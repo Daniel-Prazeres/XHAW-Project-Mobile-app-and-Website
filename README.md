@@ -10,13 +10,24 @@ Daniel Casimiro Alcantara Prazeres | ST10454581
 
 Lonwabo Dakalo Nicholas Ramaliwa | ST10470338
 
-Mukhesi Raluswielo Tsiea Tshivhase |
+Mukhesi Raluswielo Tsiea Tshivhase | 
 
 https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website
 
 ## Project overview
 
-We at Aegis were tasked with creating a mobile app, website and logo for the company Empowering the Nation, a company that seeks to provide upskilling services for lower income individuals who wish to better market themselves to future employers. 
+We at Aegis were tasked with creating a mobile app, website and logo for the company Empowering the Nation, a company that seeks to provide upskilling services for lower income individuals who wish to better market themselves to future employers. Both the app and website should provide users with the ability to learn and read about Empowering the Nation and the services it provides. The ability to browse through the currently available courses Empowering the Nation is providing and descriptions of each (including price, content covered and length). The ability to enroll in said courses, view you're currently enrolled courses and be able to remove select courses within a bookings screen. The ability to contact Empowering the Nation, through either their social medias or traditional contact line (Phone number & whatsapp) and access to the location of Empowering the Nation's physical locations. Lastly the ability to calculate the total cost of your chosen courses within the cart screen, taking into consideration VAT into the price & any discounts applied.
+
+#### Discount calculation:
+
+1 Enrolled courses: 0%
+2 Enrolled courses: 5%
+3 Enrolled courses: 10%
+4 or more Enrolled courses: 15%
+
+VAT: 15%
+
+Moreover we were tasked with creating an appealing logo and UI for both the website and mobile app
 
 #### Empowering the nations logo:
 
@@ -36,7 +47,7 @@ The logo represents achivement through hard work, where scaling the mountain is 
 
 4: Give the user the ability to contact Empowering the Nation via their social medias 
 
-## Video
+## Videos
 
 #### Website video recording:
 
