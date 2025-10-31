@@ -58,9 +58,14 @@ The logo represents achivement through hard work, where scaling the mountain is 
 
 #### Website video recording:
 
+https://youtu.be/6iyZlFQcEew?si=0vrRleC2uhifk4BF
+
 #### Mobile app video recording:
 
+https://youtu.be/oLmMAArMlg8
+
 # Images
+
 #### WARNING: Should an image not appear within the readme below, reload the page. If after reloading the page the image is still missing click the Alt text which will take you to the images source within the directory where you can then view it.
 
 ## Images - Website
