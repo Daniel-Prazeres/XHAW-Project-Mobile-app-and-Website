@@ -6,11 +6,11 @@ A programming & consulting firm named after the impervious fleece Athena and Zeu
 
 #### Members:
 
-Daniel Casimiro Alcantara Prazeres | ST10454581
+Daniel Casimiro Alcantara Prazeres | ST10454581 | Leader
 
-Lonwabo Dakalo Nicholas Ramaliwa | ST10470338
+Lonwabo Dakalo Nicholas Ramaliwa | ST10470338 | Secretary
 
-Mukhesi Raluswielo Tsiea Tshivhase | ST10476909
+Mukhesi Raluswielo Tsiea Tshivhase | ST10476909 | Creative director
 
 https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website
 
@@ -30,7 +30,7 @@ We at Aegis were tasked with creating a mobile app, website and logo for the com
 
 VAT: 15%
 
-#### UI, UX & Logo design:
+### UI, UX & Logo design:
 
 Moreover we were tasked with creating an appealing logo and UI for both the website and mobile app that would give off an air of professionality and friendliness. We decided on a somewhat spartan clean look for both the website and mobile app so as to reduce visual clutter caused by complex visual elements and increase readablility. Below you can see the pallet we chose as a guidline to design the UI of both the website and mobile app. Of note is its liberal use of white, black, gray and high saturation orange & blue which was chosen so as to make certain elements stand out to the user and draw their attention to them.
 
