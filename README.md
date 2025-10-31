@@ -38,6 +38,7 @@ Moreover we were tasked with creating an appealing logo and UI for both the webs
 
 #### Empowering the nations logo:
 
+Empowering the Nation required a logo that exentuated and represented who they are and what they do.
 This is the logo we designed for Empowering the Nation
 
 ![Logo img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/Logo.png)
