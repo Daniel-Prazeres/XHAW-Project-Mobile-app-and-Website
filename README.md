@@ -10,7 +10,7 @@ Daniel Casimiro Alcantara Prazeres | ST10454581
 
 Lonwabo Dakalo Nicholas Ramaliwa | ST10470338
 
-Mukhesi Raluswielo Tsiea Tshivhase | 
+Mukhesi Raluswielo Tsiea Tshivhase | ST10476909
 
 https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website
 
@@ -21,13 +21,18 @@ We at Aegis were tasked with creating a mobile app, website and logo for the com
 #### Discount calculation:
 
 1 Enrolled courses: 0%
+
 2 Enrolled courses: 5%
+
 3 Enrolled courses: 10%
+
 4 or more Enrolled courses: 15%
 
 VAT: 15%
 
-Moreover we were tasked with creating an appealing logo and UI for both the website and mobile app
+Moreover we were tasked with creating an appealing logo and UI for both the website and mobile app that would give off an air of professionality and friendliness. We decided on a somewhat spartan clean look for both the website and mobile app so as to reduce visual clutter caused by complex visual elements and increase readablility. Below you can see the pallet we chose as a guidline to design the UI of both the website and mobile app. Of note is its liberal use of white, black, gray and high saturation orange & blue which was chosen so as to make certain elements stand out to the user and draw their attention to them.
+
+![Pallet img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/pallet.png)
 
 #### Empowering the nations logo:
 
@@ -52,6 +57,9 @@ The logo represents achivement through hard work, where scaling the mountain is 
 #### Website video recording:
 
 #### Mobile app video recording:
+
+# Images
+#### WARNING: Should an image not appear within the readme below, reload the page. If after reloading the page the image is still missing click the Alt text which will take you to the images source within the directory where you can then view it.
 
 ## Images - Website
 
