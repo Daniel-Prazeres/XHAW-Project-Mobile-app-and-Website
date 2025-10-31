@@ -189,4 +189,18 @@ Pixabay (2017). Woman Reading Book · Free Stock Photo. [online] Pexels. Availab
 
 ‌Winstead, T. (2021). White and Blue Electric Device · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/white-and-blue-electric-device-7722927/.
 
-‌
+‌Garanganga, K. (2025) Search [software]. Available at: < Kincade Garanganga: <form action="/search-results">     <label for="sit... | Chat | Microsoft Teams, Kincade Garanganga: .search-container {     display: flex;     align-items: ce... | Chat | Microsoft Teams, Kincade Garanganga: const searchInput = document.getElementById('site-search'); ... | Chat | Microsoft Teams > [Accessed: 18 September 2025].
+
+Freepik. “Shopping Cart Black Shape” [PNG icon]. Available at: < https://www.flaticon.com/free-icon/shopping-cart-black-shape_25619 > [Accessed: 4 September 2025].
+
+The Noun Project. “Calendar icon – Storm Icons” [PNG icon]. Available at: < https://static.thenounproject.com/png/calendar-icon-1585329-512.png  > [Accessed: 4 September 2025].
+
+Icons8. Calendar icon set. Available at: <  https://img.icons8.com/?size=100&id=23&format=png&color=000000 > [Accessed: 4 September 2025].
+
+Icons8. Calendar icon set. Available at: < https://img.icons8.com/?size=100&id=10053&format=png&color=000000  > [Accessed: 4 September 2025].
+
+Icons8. Cart icon. Available at: < https://img.icons8.com/?size=100&id=85080&format=png&color=000000 > [Accessed: 4 September 2025].
+
+Icons8. Cart Icon. Available at: < https://img.icons8.com/?size=100&id=85383&format=png&color=000000 > [Accessed: 4 September 2025].
+
+Icons8. Search icon. Available at: < https://img.icons8.com/?size=100&id=82712&format=png&color=000000 > [Accessed: 4 September 2025].
