@@ -70,46 +70,46 @@ https://youtu.be/oLmMAArMlg8
 
 ## Images - Website
 
-#### Home page
+### Home page
 ![Website home page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteHomescreen.png)
 
-#### Course types page
+### Course types page
 ![Website course types page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteCourseTypes.png)
 
-#### Six month courses page
+### Six month courses page
 ![Website six month courses page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteSixMonth.png)
 
-#### Six week courses page
+### Six week courses page
 ![Website six week courses page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteSixWeek.png)
 
-#### Contact us page
+### Contact us page
 ![Website contact us page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteContactUs.png)
 
-#### Bookings page
+### Bookings page
 ![Website bookings page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteBookings.png)
 
-#### Cart page
+### Cart page
 ![Website cart page img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteCart.png)
 
-#### Search function
+### Search function
 ![Website search function img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/websiteSearch.png)
 
 ## Images - Mobile App
 
-#### Home screen
+### Home screen
 ![Mobiles app home screen img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileHomeScreen.jpg)
 
-#### Dropdown menu function
+### Dropdown menu function
 ![Mobile app dropdown menu img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileDropdownMenu.jpg)
 
-#### Course types screen
+### Course types screen
 ![Mobile app course types screen img](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileCourseTypes1.jpg)
 
-#### Six month courses screen
+### Six month courses screen
 ![Mobile app six month courses screen img1](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileSixMonth1.jpg)
 ![Mobile app six month courses screen img2](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileSixMonth2.jpg)
 
-#### Six week courses screen
+### Six week courses screen
 ![Mobile app six week courses screen img1](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileSixWeek1.jpg)
 ![Mobile app six week courses screen img2](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileSixWeek2.jpg)
 
