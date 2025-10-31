@@ -111,4 +111,74 @@ The logo represents achivement through hard work, where scaling the mountain is 
 ![Mobile app cart screen img2](https://github.com/Daniel-Prazeres/XHAW-Project-Mobile-app-and-Website/blob/main/Resources/mobileCart2.jpg)
 
 # References 
+GeeksforGeeks. (2024). GeeksforGeeks. [online] Available at: https://www.geeksforgeeks.org/git/how-to-add-images-to-readmemd-on-github/ [Accessed 31 Oct. 2025].
 
+‌reactnavigation.org. (n.d.). React Navigation | React Navigation. [online] Available at: https://reactnavigation.org/.
+
+‌Meta Open Source (2025). React. [online] react.dev. Available at: https://react.dev/.
+
+‌React Native (2024). React Native · A framework for building native apps using React. [online] reactnative.dev. Available at: https://reactnative.dev/.
+
+‌The Independent Institute of Education, 2025. Work integrated learning [XHAW] nt. [online via internal VLE] The Independent institute of Education. Available at: <XHAW5112_MM> [Accessed 31 Oct. 2025] 
+
+Reactnavigation.org. (2021). Available at: https://reactnavigation.org/docs/params/.
+
+‌W3Schools (2019). Window setTimeout() Method. [online] W3schools.com. Available at: https://www.w3schools.com/jsref/met_win_settimeout.asp.
+
+‌GeeksforGeeks (2023). How to Remove a Specific Item from an Array in JavaScript ? [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/javascript/how-to-remove-a-specific-item-from-an-array-in-javascript/ [Accessed 31 Oct. 2025].
+
+‌Stack Overflow. (n.d.). How to create a simple JavaScript timer? [online] Available at: https://stackoverflow.com/questions/31559469/how-to-create-a-simple-javascript-timer.
+
+‌Hassen (2018). Set types on useState React Hook with TypeScript. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/53650468/set-types-on-usestate-react-hook-with-typescript.
+
+‌www.w3schools.com. (n.d.). JavaScript Number toString() Method. [online] Available at: https://www.w3schools.com/jsref/jsref_tostring_number.asp.
+
+‌dmr (2011). Add array to two-dimensional array. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/8184365/add-array-to-two-dimensional-array.
+
+‌npm. (2024). @react-native-picker/picker. [online] Available at: https://www.npmjs.com/package/@react-native-picker/picker.
+
+‌Stack Overflow. (n.d.). Using useState to store state for an array of objects. [online] Available at: https://stackoverflow.com/questions/66399129/using-usestate-to-store-state-for-an-array-of-objects.
+
+‌React.dev. (2025). Updating Arrays in State – React. [online] Available at: https://react.dev/learn/updating-arrays-in-state#adding-to-an-array [Accessed 31 Oct. 2025].
+
+‌MDN Web Docs. (n.d.). try...catch. [online] Available at: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch.
+
+‌www.typescriptlang.org. (n.d.). Handbook - The TypeScript Handbook. [online] Available at: https://www.typescriptlang.org/docs/handbook/intro.html.
+
+‌w3schools (2019). JavaScript Arrays. [online] W3schools.com. Available at: https://www.w3schools.com/js/js_arrays.asp.
+
+‌flowermia (2022). Handling array length in React. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/71892161/handling-array-length-in-react.
+
+‌GeeksforGeeks (2024). Loop Inside React JSX. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/reactjs/loop-inside-react-jsx/ [Accessed 31 Oct. 2025].
+
+‌CueMath (n.d.). Average Formula - What Is the Average Formula? Examples. [online] Cuemath. Available at: https://www.cuemath.com/average-formula/.
+
+‌Stack Overflow. (n.d.). How can I create a two dimensional array in JavaScript? [online] Available at: https://stackoverflow.com/questions/966225/how-can-i-create-a-two-dimensional-array-in-javascript.
+
+‌GeeksforGeeks (2019). JavaScript 2D Array. [online] GeeksforGeeks. Available at: https://www.geeksforgeeks.org/javascript/javascript-2d-array/ [Accessed 31 Oct. 2025].
+
+‌Gupta, A. (2020). How to run code on App Start-up in React-Native. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/59981907/how-to-run-code-on-app-start-up-in-react-native.
+
+‌Deepak Tewatia (2025). Map() method in ReactJS. [online] Letsreact.org. Available at: https://letsreact.org/map-method-in-reactjs [Accessed 31 Oct. 2025].
+
+‌reactnative.dev. (n.d.). TextInput · React Native. [online] Available at: https://reactnative.dev/docs/textinput.
+
+‌Jo3la (2012). push() a two-dimensional array. [online] Stack Overflow. Available at: https://stackoverflow.com/questions/11345954/push-a-two-dimensional-array.
+
+Pixabay (2017). Woman Reading Book · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/woman-reading-book-256455/.
+
+‌cottonbro studio (2020). Person Holding Stainless Steel Bowl With Vegetable Salad · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/person-holding-stainless-steel-bowl-with-vegetable-salad-4252140/ [Accessed 31 Oct. 2025].
+
+‌Fotios, L. (2018). Person Digging on Soil Using Garden Shovel · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/person-digging-on-soil-using-garden-shovel-1301856/.
+
+‌Kivaka, L. (2019). Person Reading A Book · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/person-reading-a-book-1741230/.
+
+‌Morillo, C. (2018). Man Wearing White Top in Front of Woman Wearing Blue Long-sleeved Top · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/man-wearing-white-top-in-front-of-woman-wearing-blue-long-sleeved-top-1181715/.
+
+‌maeder, mali (2017). Two Red Flowers on Stairs · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/two-red-flowers-on-stairs-68470/.
+
+‌cottonbro studio (2020). Person Sewing a Fabric · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/person-sewing-a-fabric-3738094/ [Accessed 31 Oct. 2025].
+
+‌Winstead, T. (2021). White and Blue Electric Device · Free Stock Photo. [online] Pexels. Available at: https://www.pexels.com/photo/white-and-blue-electric-device-7722927/.
+
+‌
